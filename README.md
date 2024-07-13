@@ -1,3 +1,5 @@
-This Project comprised Simple Sign-up Pages .
+This is a simple Sign-Up Page built during  web-dev Training .
 <br>
-The author of this Project is (Tamanna Singh) 
+This is my first Task In this domain
+
+
